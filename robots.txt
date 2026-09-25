@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samueldua-beep.github.io/distribuidoraparanhos/sitemap.xml
